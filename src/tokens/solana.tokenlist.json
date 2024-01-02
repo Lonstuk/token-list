@@ -1,8 +1,7 @@
 {
-    chainId: 101,
-    address: "FvnQEubhX3bMD8KS6pAyXgFsVg1LMDD2Pu65cHiSSwVx"
-    symbol: "JEB",
     name: "JEBICON",
+    symbol: "JEB",
+    address: "FvnQEubhX3bMD8KS6pAyXgFsVg1LMDD2Pu65cHiSSwVx"
     decimals: 9,
     logoURI: "https://github.com/Lonstuk/token-list/commit/fbc890198f28bd2b5ded94fb6294ec45cc15c628",
     tags: [
